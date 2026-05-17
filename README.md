@@ -84,11 +84,8 @@ Run tests:
 cd tests
 ./test.sh
 ```
-## Notes
 
-This project is not a complete GNU ls implementation. The -h flag has a simplified behavior compared to GNU ls, and corresponding tests are not included.
-
-![](/screenshots/my_ls_test_1.png) 
+![](/screenshots/my_ls_test_4.png) 
 
 ## Memory Check (Valgrind)
 
