@@ -70,8 +70,9 @@ This produces the my_ls binary.
 Example
 
 ```bash
-./mini_ls -laR /
+./mini_ls -la /
 ```
+![](/screenshots/my_ls_demonstration_2.png)
 
 ## Tests
 
